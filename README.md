@@ -4,7 +4,7 @@ This repository contains the code for a Generative Adversarial Network trained f
 
 ## Demo
 
-A demo of the trained model is available [here](https://www.streamlit.io/).
+A demo of the trained model is available [here](https://superresolution.streamlit.app).
 
 
 
